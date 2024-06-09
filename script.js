@@ -1,6 +1,6 @@
 const posts = [
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/medium-shot-man-library.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -8,7 +8,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/young-student-working-assignment.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -16,7 +16,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/medium-shot-man-library.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -24,7 +24,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/young-student-working-assignment.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -32,7 +32,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/medium-shot-man-library.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -40,7 +40,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/young-student-working-assignment.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -48,7 +48,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/medium-shot-man-library.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -56,7 +56,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/young-student-working-assignment.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
@@ -64,7 +64,7 @@ const posts = [
     date: "August 20, 2022",
   },
   {
-    image: "https://via.placeholder.com/400x200",
+    image: "assets/medium-shot-man-library.jpg",
     category: "Technology",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
